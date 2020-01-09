@@ -19,5 +19,8 @@
   },
   "jest": {
     "collectCoverage": true
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
