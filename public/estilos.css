@@ -1,5 +1,8 @@
 body {
   text-align: center;
+  padding: 15px;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
 }
 
 h1 img {
@@ -15,14 +18,14 @@ input {
   margin: 2px;
 }
 
-button{
-    border: 1px solid #000000;
-    padding: 10px;
-    background: #d8d8d8;
-    font-size: 20;
+button {
+  border: 1px solid #000000;
+  padding: 10px;
+  background: #d8d8d8;
+  font-size: 20;
 }
 
-.result{
+.result {
   padding: 10px;
   border: 1px solid #dedede;
   background: #fdfdfd;
